@@ -1,2 +1,2 @@
-SNLeagueSharp
+SNami
 =============
